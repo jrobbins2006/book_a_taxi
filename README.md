@@ -15,3 +15,5 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 # book_a_taxi
+
+This project used ChatGPT 5.2 to generate starter code for a taxi-ride booking web application.  The application contains several pages of navigation, including Home, About US, Services, Contact, and a book a ride  with form validation. The project uses React components and React Router for the base pages.  In addition, React is used for form validation, and the pages are styled with CSS. 
